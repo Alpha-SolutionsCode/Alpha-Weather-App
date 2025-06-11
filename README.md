@@ -1,6 +1,6 @@
 # 🌦️ Weather App — Real-Time Weather Forecasting
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge)](https://weather.alphasolutions.online/)
-[![Author](https://img.shields.io/badge/Author-Muhammad%20Mikran%20Sandhu-blueviolet?style=for-the-badge)](https://github.com/yourusername)
+[![Author](https://img.shields.io/badge/Author-Muhammad%20Mikran%20Sandhu-blueviolet?style=for-the-badge)](https://github.com/M-Mikran-Sandhu)
 
 A sleek, responsive weather web application that provides real-time weather information for cities around the world. Built by **Muhammad Mikran Sandhu**, this app is designed for usability, accuracy, and speed.
 
